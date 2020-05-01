@@ -1,0 +1,61 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-size: 14px;
+}
+
+
+/*----------------img--------*/
+
+
+
+
+/*----------------Header--------*/
+
+header {
+     background-color: #cccccc;
+}
+
+#logo {
+letter-spacing: 2px;
+font-weight: 700;
+font-size: 40px;
+font-family: Oswald, sans-serif;
+float: left;
+text-transform: uppercase;
+color: #c0287a;
+margin-left: 40px;
+}
+
+
+/*----------Quotes-----------*/
+.text-uppercase {
+    text-transform: uppercase
+    font-size: 16px;
+    color: #c0287a;
+}
+
+
+
+/*----------Footer------------*/
+footer {
+    height: 170px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks li {
+    display: inline; 
+}
+
+.social-networks i {
+    color: #c0287a;
+    padding: 2%;
+    font-size: 200%;
+    padding-top: 20px;
+}
