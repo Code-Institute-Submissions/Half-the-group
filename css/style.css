@@ -9,12 +9,8 @@ p {
 
 
 /*----------------img--------*/
-
 img {
-  border-radius: 50%;
-    width:400px;
-  height:600px;
-  object-fit:cover;
+clip-path: circle(175px at 175px 300px);
 }
 
 
