@@ -8,11 +8,37 @@ p {
 }
 
 
+
+/*---------------Contact-page--------*/
+.form-group {
+    max-width: 70%;
+   padding-top: 30px;
+}
+
 /*----------------img--------*/
 .img-meet-the-cast {
 clip-path: circle(175px at 175px 300px);
+padding-bottom: 20px;
 }
 
+
+
+
+
+/*----------------Map--------*/
+.map-container-2{
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+}
+.map-container-2 iframe{
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}
 
 /*----------------Header--------*/
 
@@ -44,6 +70,7 @@ margin-left: 40px;
 /*----------Footer------------*/
 footer {
     height: 170px;
+    padding-top: 60px;
 }
 
 .social-networks {
