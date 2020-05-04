@@ -1,4 +1,6 @@
 
+
+/*-----------Text------------*/
 body {
     font-family: 'Roboto', sans-serif;
 }
@@ -8,6 +10,28 @@ p {
 }
 
 
+.index-h1 {
+text-align: center;
+}
+
+
+.index-p {
+text-align: center;
+}
+
+
+h3 {
+    text-align: center;
+
+}
+
+i {
+    font-size: 150%;
+    color: #c0287a
+}
+
+
+    
 
 /*---------------Contact-page--------*/
 .form-group {
