@@ -30,8 +30,19 @@ i {
     color: #c0287a
 }
 
-
+.information {
+    padding-left: 50px;
+    padding-top: 70px;
+    padding-right: 150px;
+    padding-bottom: 50px;
+}
     
+
+    h4 .names {
+    font-family: 'Domine', serif;
+    text-align: center;
+    padding-bottom: 3px;
+    }
 
 /*---------------Contact-page--------*/
 .form-group {
@@ -70,16 +81,22 @@ header {
      background-color: #cccccc;
 }
 
+
 #logo {
 letter-spacing: 2px;
 font-weight: 700;
 font-size: 40px;
-font-family: Oswald, sans-serif;
+font-family: 'Black Han Sans', sans-serif;
 float: left;
 text-transform: uppercase;
 color: #c0287a;
 margin-left: 40px;
 }
+
+
+
+
+
 
 
 /*----------Quotes-----------*/
