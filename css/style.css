@@ -49,12 +49,15 @@ i {
      padding-top: 40px;
  }
 
+.nav-link:hover {
+  color: #c0287a;
+}
 
 
 /*---------------Contact-page--------*/
 .form-group {
     max-width: 70%;
-   padding-top: 30px;
+   padding-top: 20px;
 }
 
 /*----------------img--------*/
