@@ -1,6 +1,6 @@
 
 
-/*-----------Text------------*/
+/* Text */
 body {
     font-family: 'Roboto', sans-serif;
 }
@@ -9,6 +9,12 @@ p {
     font-size: 14px;
 }
 
+
+.text-uppercase {
+    text-transform: uppercase
+    font-size: 15px;
+    color: #c0287a;
+}
 
 .index-h1 {
 text-align: center;
@@ -49,18 +55,15 @@ i {
      padding-top: 40px;
  }
 
-.nav-link:hover {
-  color: #c0287a;
-}
 
 
-/*---------------Contact-page--------*/
+/* Contact-page */
 .form-group {
     max-width: 70%;
    padding-top: 20px;
 }
 
-/*----------------img--------*/
+/* img */
 .img-meet-the-cast {
 clip-path: circle(175px at 175px 300px);
 padding-bottom: 20px;
@@ -72,7 +75,6 @@ padding-bottom: 20px;
 body, html {
     height: 100%;
 }
-
 
 .hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://scontent.farn2-1.fna.fbcdn.net/v/t1.0-9/p960x960/86221369_10158424583334645_6654781594399670272_o.jpg?_nc_cat=103&_nc_sid=8024bb&_nc_ohc=XB_OCIQqS24AX--zOpm&_nc_ht=scontent.farn2-1.fna&_nc_tp=6&oh=0a8e836fb828f698fb1a20cbb818c9a6&oe=5ED4FCD3");
@@ -95,13 +97,14 @@ body, html {
 
 
 
-/*----------------Map--------*/
+/* Map */
 .map-container-2{
 overflow:hidden;
 padding-bottom:56.25%;
 position:relative;
 height:0;
 }
+
 .map-container-2 iframe{
 left:0;
 top:0;
@@ -110,7 +113,7 @@ width:100%;
 position:absolute;
 }
 
-/*----------------Header--------*/
+/* Header */
 
 header {
      background-color: #cccccc;
@@ -129,20 +132,7 @@ margin-left: 40px;
 }
 
 
-
-
-
-
-/*----------Quotes-----------*/
-.text-uppercase {
-    text-transform: uppercase
-    font-size: 15px;
-    color: #c0287a;
-}
-
-
-
-/*----------Footer------------*/
+/* Footer */
 footer {
     height: 170px;
     padding-top: 60px;
