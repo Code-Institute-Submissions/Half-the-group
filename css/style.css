@@ -11,7 +11,7 @@ p {
 
 
 .text-uppercase {
-    text-transform: uppercase
+    text-transform: uppercase;
     font-size: 15px;
     color: #c0287a;
 }
@@ -30,14 +30,14 @@ h3 {
     text-align: center;
 }
 
+
 i {
     font-size: 150%;
     color: #c0287a;
 }
 
-.ticket {
-    color: #c0287a;
-    text-decoration: none;
+a:hover {
+  background-color: rgba(207, 93, 154, 0.075);
 }
 
 .information {

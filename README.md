@@ -38,15 +38,13 @@ As a user of the this website, I want it to be easy to navigate and the pages to
  
  
 #Wireframes
+ Pictures from Balsamiq
  
- 
- 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
  
 #Features
 Navigation Bar - This allows the user to easy navigate in the site, it is consistent throughout the whole website. The user should know where they are and how to find every page easily. 
 Footer Links -  To give easy access to social media pages. These are consistent on every page. 
-Home page: Image Carousel - Shows three pictures on the homepage. A shout out to audience and companies! The goal is the user to buy tickets to the show and for companies to hire them. 
+Home page: Image Carousel - Shows many pictures on the homepage. A shout out to audience and companies! The goal is the user to buy tickets to the show and for companies to hire them. 
 Ticket page: Shout out to companies again and presentation of shows and upcoming shows. 
 Meet the cast page: An opportunity to get to know the cast more in a fun and easy way so the user want to see them perform. Every person is presented with a photo and a personal quote about love, since the theme is love. 
 About page: The purpose is to give more information about impro, the cast, the shows and the theatre. A map is embedded to the theatre so people know where to see them perform. 
@@ -64,42 +62,39 @@ Information about the corona-virus situation and what Half The Group is doing to
  
 #Technologies Used
  
-HTML- I used HTML to give structure and content to the page. 
+[HTML](https://en.wikipedia.org/wiki/HTML5)- I used HTML to give structure and content to the page. 
  
-CSS - I used CSS to style my website. 
+[CSS](https://sv.wikipedia.org/wiki/Cascading_Style_Sheets) - I used CSS to style my website. 
  
-Bootstrap- I used Bootstrap for every page and to make it responsive. For example the carousel image, the hero container, the columns. 
+[Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)- I used Bootstrap for every page and to make it responsive. For example the carousel image, the hero container, the columns. 
+
+[Google Fonts](https://fonts.google.com/) - provided font-family, such as Roboto.
  
-Google Fonts - provided font-family. 
+[Balsamiq](https://balsamiq.com/) - was used to design my website. 
  
-Balsamiq - was used to design my website. 
+[Coolors](https://coolors.co/806157-cccccc-cf5d9a-e5b6a9-c0287a) - I used this tool to get the colors i wanted to use on my page. 
  
-Coolors - I used this tool to get the colors i wanted to use on my page. 
+[Font Awesome](https://fontawesome.com/)- provided symbols to the main page. 
  
-Font Awesome- provided symbols to the main page. 
- 
-Code Academy- I also took a course through Code academy to understand Bootstrap and use it better on my page. 
+[Code Academy](https://www.codecademy.com/)- I took a course through Code academy to understand Bootstrap and use it better on my page. 
+
+[Embed Google Map](https://www.embedgooglemap.net/) - to provide a map to the About page. 
+
+((#Testing
 
 
-#Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
- For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-JQuery
-The project uses JQuery to simplify DOM manipulation.
-#Testing
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
 
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
 
-#Contact form:
+
+CSS code was tested here: https://jigsaw.w3.org/css-validator/validator
+
+
+((#Contact form:
 Go to the "Contact Us" page
 Try to submit the empty form and verify that an error message about the required fields appears
 Try to submit the form with an invalid email address and verify that a relevant error message appears
@@ -118,15 +113,23 @@ In particular, you should provide all details of the differences between the dep
 Different values for environment variables (Heroku Config Vars)?
 Different configuration files?
 Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
+In addition, if it is not obvious, you should also describe how to run your code locally.))
 
 #Credits
-Content
-The text for section Y was copied from the Wikipedia article Z
-
+The navbar and the footer was created with the help of Bootstrap. 
+The tables and columns was created with the help of Bootstrap. 
+The carousel on the Home-page was created with the help of Bootstrap. 
+The hero container on the Ticket-page was created with the code from [w3schools](https://www.w3schools.com/howto/howto_css_hero_image.asp). 
+The cards was created with the code from [w3schools](https://www.w3schools.com/bootstrap4/bootstrap_cards.asp). 
+The image gallery was made with help from Bootstrap. 
+The about-page was made with help from Bootstrap and the map comes from [Embed Google Map](https://www.embedgooglemap.net/)
+The form was created with help from [Bootstrap] (https://getbootstrap.com/docs/4.0/components/forms/)
+ 
 #Media
-The photos used in this site were obtained from ...
-
+The photos used in this site were obtained from facebook and my husband. 
+ 
 #Acknowledgements
-I received inspiration for this project from X
-
+I have received a lot of support and inspiration from my husband. 
+Thanks to my mentor Aaron for giving advices and help. 
+Thanks to the patient people who has helped me in Code Institutes slack-channels. 
+I have been inspired a lot by the websites we have created along the Code institutes course. 
