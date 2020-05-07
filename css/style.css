@@ -63,12 +63,6 @@ i {
    padding-top: 20px;
 }
 
-/* img 
-.img-meet-the-cast {
-clip-path: circle(175px at 175px 300px);
-padding-bottom: 20px;
-} */
-
 
 /* The hero image */
 
@@ -121,14 +115,14 @@ header {
 
 
 #logo {
-letter-spacing: 2px;
+letter-spacing: 0px;
 font-weight: 700;
-font-size: 40px;
+font-size: 35px;
 font-family: 'Black Han Sans', sans-serif;
 float: left;
 text-transform: uppercase;
 color: #c0287a;
-margin-left: 40px;
+margin-left: 10px;
 }
 
 
