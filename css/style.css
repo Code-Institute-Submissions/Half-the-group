@@ -28,12 +28,16 @@ text-align: center;
 
 h3 {
     text-align: center;
-
 }
 
 i {
     font-size: 150%;
-    color: #c0287a
+    color: #c0287a;
+}
+
+.ticket {
+    color: #c0287a;
+    text-decoration: none;
 }
 
 .information {
@@ -44,10 +48,11 @@ i {
 }
     
 
-    h4 .names {
+     .names {
     font-family: 'Domine', serif;
     text-align: center;
     padding-bottom: 3px;
+
     }
 
 
@@ -125,6 +130,12 @@ color: #c0287a;
 margin-left: 10px;
 }
 
+/*Images*/
+
+.img-meet-the-cast {
+    border-radius: 50%;
+}
+ 
 
 /* Footer */
 footer {
