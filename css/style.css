@@ -90,8 +90,8 @@ a:hover {
 
 
 .hero-text {
-  text-align: center;
-  position: absolute;
+    text-align: center;
+  position: relative;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -172,4 +172,8 @@ footer {
     padding: 2%;
     font-size: 200%;
     padding-top: 20px;
+}
+
+.background {
+    background-color: #cccccc;
 }
