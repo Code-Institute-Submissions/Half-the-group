@@ -66,6 +66,9 @@ The user should know where they are and how to find every page easily.
 [Embed Google Map](https://www.embedgooglemap.net/) - to provide a map to the About page. 
 
 # Testing
+Throughout the creating and building the website I tested the code in gitpod using “python3 -m http.server” to see how the page looked on the browser. A lot of testing was done by the developer tool in Google Chrome, in order to see how responsive the website was in different devices such as different models of mobile devices and Ipads. As I went along with the project i modified the code especially in the end to make sure it was working well on every device. 
+
+
 To ensure that all users can successfully use the site, I have been tested it on many browers such as:
 
 - Chrome
@@ -75,20 +78,34 @@ To ensure that all users can successfully use the site, I have been tested it on
 - Firefox
 - Opera
 
-- CSS code was tested here: https://jigsaw.w3.org/css-validator/validator
+I have also tested the page on different devices such as Ipad, Galaxy, Iphone. 
 
-- HTML-code was tested here: https://validator.w3.org/nu/?doc=https%3A%2F%2Fkristina-liv.github.io%2FHalf-the-group%2F
+
+CSS code was tested here: https://jigsaw.w3.org/css-validator/validator
+
+HTML-code was tested here: https://validator.w3.org/nu/?doc=https%3A%2F%2Fkristina-liv.github.io%2FHalf-the-group%2F
 I wrote in the address in the form and made changes after that. 
 
-## Contact form:
+I have been testing all the links in the navigation menu which all worked fine. 
+The social links will be opened in a new window. I have been using "target="_blank" to manage that. 
+All links are pointing to the correct destination.
 
+I have been testing the map, zooming in and out which are working. 
+
+### Contact form:
+I have tested to try to submit the form without a valid email address and I got an error message, noting the invalid email address. 
+The "required" attribute have been added to the Email address and the message form fields. If these fields are not filled in the user can not submit the message. 
+If all fields are filled in the page will reload. 
 
 ## Issues found in testing
-The text in the hero image on the Ticket-page overflowed so I did some adjustments in padding and made the image size bigger and then it looked better. 
-The logo was too big on mobile devices so i deleted letter-spacing in the CSS-file and did adjustments with padding to the right which resolved the problem. 
+- The text in the hero image on the Ticket-page overflowed so I did some adjustments in padding and made the image size bigger and then it looked better. Later on I also decided to move some of the text below the image"
+- The logo was too big on mobile devices so i deleted letter-spacing in the CSS-file and did adjustments with padding to the right which resolved the problem. 
 
 # Deployment
+I have used Github to deploy my website.
+Here you can find it:
 
+ https://kristina-liv.github.io/Half-the-group/
 
 # Credits
 - The navbar and the footer was created with the help of Bootstrap. 
