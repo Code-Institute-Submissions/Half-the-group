@@ -66,6 +66,15 @@ Make an icon to the navigationbar.
 [Embed Google Map](https://www.embedgooglemap.net/) - to provide a map to the About page. 
 
 #Testing
+To ensure that all users can successfully view/use the site, I tested it across all major browsers in both desktop and mobile configuration.
+
+Chrome
+Edge
+Firefox
+Safari
+Opera
+Internet Explorer
+
 CSS code was tested here: https://jigsaw.w3.org/css-validator/validator
 
 HTML-code was tested here: https://validator.w3.org/nu/?doc=https%3A%2F%2Fkristina-liv.github.io%2FHalf-the-group%2F
