@@ -66,7 +66,14 @@ The user should know where they are and how to find every page easily.
 [Embed Google Map](https://www.embedgooglemap.net/) - to provide a map to the About page. 
 
 # Testing
-Throughout the creating and building the website I tested the code in gitpod using “python3 -m http.server” to see how the page looked on the browser. A lot of testing was done by the developer tool in Google Chrome, in order to see how responsive the website was in different devices such as different models of mobile devices and Ipads. As I went along with the project i modified the code especially in the end to make sure it was working well on every device. 
+People can now get easy access to upcoming shows and companies can hire them. 
+There is a contact form to create contact. Supporters can get to know the cast a little bit more by seeing the images and the personal quotes. 
+People who have questions about the theatre can read information in the "About-page" or send a message. There is also a map for visitors to the coming shows so they can plan their trip there. 
+Fans can follow them on social media. 
+
+Throughout the creating and building the website I tested the code in gitpod using “python3 -m http.server” to see how the page looked on the browser. 
+A lot of testing was done by the developer tool in Google Chrome, in order to see how responsive the website was in different devices.
+As I went along with the project i modified the code especially in the end to make sure it was working well on every device. 
 
 
 To ensure that all users can successfully use the site, I have been tested it on many browers such as:
@@ -86,11 +93,11 @@ CSS code was tested here: https://jigsaw.w3.org/css-validator/validator
 HTML-code was tested here: https://validator.w3.org/nu/?doc=https%3A%2F%2Fkristina-liv.github.io%2FHalf-the-group%2F
 I wrote in the address in the form and made changes after that. 
 
-I have been testing all the links in the navigation menu which all worked fine. 
+I have been testing all the links in the navigation menu which all worked fine. The buttons also works well.
 The social links will be opened in a new window. I have been using "target="_blank" to manage that. 
 All links are pointing to the correct destination.
 
-I have been testing the map, zooming in and out which are working. 
+I have been testing the map, zooming in and out which are working well. 
 
 ### Contact form:
 I have tested to try to submit the form without a valid email address and I got an error message, noting the invalid email address. 
