@@ -105,6 +105,14 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
+##Issues found in testing
+The text in the hero image on the Ticket-page overflowed so I did some adjustments in padding and then it looked better. 
+
+The logo was too big on mobile devices so i deleted letter-spacing in the CSS-file and did adjustments with padding to the right resolved the problem. 
+
+
+
+
 #Deployment
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
