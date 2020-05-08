@@ -3,7 +3,7 @@
 I have chosen to make a website for the improvisation theatre group Half The Group. They offer shows and company events.  
 They have a website already but I wanted to improve it in order to reach out to more people what they offer and make it more appealing for people to watch them perform. 
 I designed the website to make information about the group members and their shows easy accessible, in order to make it possible for people to follow them and companies to hire them. 
-I wanted it to make it easy to make contact so therefor I made a contact form to enable people to reach out with questions and for companies to show their interests.
+I wanted to make it to be easy to make contact so therefor I made a contact form to enable people to reach out with questions and for companies to show their interests.
 Here you can view their existing website: https://www.halfthegroup.com/
 
 # UX
@@ -122,7 +122,7 @@ Here you can find it:
 - The cards was created with the code from [w3schools](https://www.w3schools.com/bootstrap4/bootstrap_cards.asp). 
 - The image gallery was made with help from Bootstrap. 
 - The about-page was made with help from Bootstrap and the map comes from [Embed Google Map](https://www.embedgooglemap.net/)
-- The form was created with help from [Bootstrap] (https://getbootstrap.com/docs/4.0/components/forms/)
+- The form was created with help from [Bootstrap](https://getbootstrap.com/docs/4.0/components/forms/)
  
 # Media
 The photos used in this site were obtained from facebook. 
