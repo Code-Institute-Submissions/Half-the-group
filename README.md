@@ -93,6 +93,8 @@ For any scenarios that have not been automated, test the user stories manually a
 
 CSS code was tested here: https://jigsaw.w3.org/css-validator/validator
 
+HTML-code was tested here: https://validator.w3.org/nu/?doc=https%3A%2F%2Fkristina-liv.github.io%2FHalf-the-group%2F
+I wrote in the address in the form and made changes. 
 
 ((#Contact form:
 Go to the "Contact Us" page
@@ -106,7 +108,7 @@ You should also mention in this section any interesting bugs or problems you dis
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 ##Issues found in testing
-The text in the hero image on the Ticket-page overflowed so I did some adjustments in padding and then it looked better. 
+The text in the hero image on the Ticket-page overflowed so I did some adjustments in padding and made the image size bigger and then it looked better. 
 
 The logo was too big on mobile devices so i deleted letter-spacing in the CSS-file and did adjustments with padding to the right resolved the problem. 
 
