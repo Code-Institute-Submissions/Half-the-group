@@ -17,12 +17,13 @@ The colours I choose are pink, grey, white and black since I feel they work well
 - Supporters of the theatre group that wants to buy tickets to their show.
 - Audience of the theatre shows
 
+
 As a supporter and interested in the theatre group I want to be able to see upcoming events so I can come and watch them.
 As a supporter I want to see pictures and information about the cast in order get to know them more.
 As a company I want information and a contact form so I can hire them on conferences and other events and make my staff happy.
 As someone who wants to come and see a show on the theatre for the first time, I want to see the map in order to plan my trip to the theatre.
 As someone who has questions about the theatre, wants to join the cast or has other question I want to be able to reach the group easy through the contact form.
-As a user of the this website, I want it to be easy to navigate and the pages to be visually appealing so it catches my interest so I will hire them for a company event or visit a show.
+As a user of the this website, I want it to be easy to navigate and the pages to be visually appealing.
 
 # Wireframes
 Pictures from Balsamiq (Links)
@@ -106,7 +107,7 @@ If all fields are filled in the page will reload.
 
 ## Issues found in testing
 - The text in the hero image on the Ticket-page overflowed so I did some adjustments in padding and made the image size bigger and then it looked better. Later on I also decided to move some of the text below the image"
-- The logo was too big on mobile devices so i deleted letter-spacing in the CSS-file and did adjustments with padding to the right which resolved the problem. 
+- The logo was too big on mobile devices so I deleted letter-spacing in the CSS-file and did adjustments with size and padding to the right which resolved the problem. 
 
 # Deployment
 I have used Github to deploy my website.

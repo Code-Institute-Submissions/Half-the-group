@@ -133,6 +133,9 @@ header {
      background-color: #cccccc;
 }
 
+ a #nav-space {
+    padding: 20%;
+}
 
 #logo {
 letter-spacing: 0px;
@@ -142,7 +145,6 @@ font-family: 'Black Han Sans', sans-serif;
 float: left;
 text-transform: uppercase;
 color: #c0287a;
-
 }
 
 /*Images*/
@@ -156,12 +158,11 @@ color: #c0287a;
 footer {
     height: 170px;
     padding-top: 60px;
-    padding-left: 0;
-}
-
-.social-networks {
+    padding-left: 0%;
+    width: 100%;
     text-align: center;
 }
+
 
 .social-networks li {
     display: inline; 
@@ -169,7 +170,7 @@ footer {
 
 .social-networks i {
     color: #c0287a;
-    padding: 2%;
+    padding:2%;
     font-size: 200%;
     padding-top: 20px;
 }
