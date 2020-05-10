@@ -11,18 +11,16 @@ I created this website with a wish to make it responsive and to be easy to navig
 The colours I choose are pink, grey, white and black since I feel they work well with the existing pictures of the theatre group. 
  
 ### Target audience:
-- Family and friends
 - The members of the group
 - Companies interested in impro events
-- Supporters of the theatre group that wants to buy tickets to their show.
-- Audience of the theatre shows
+- Supporters of the theatre group.
 
 
-As a supporter and interested in the theatre group I want to be able to see upcoming events so I can come and watch them.
+As a supporter I want to be able to see upcoming events so I can buy tickets and see them perform.
 As a supporter I want to see pictures and information about the cast in order get to know them more.
 As a company I want information and a contact form so I can hire them on conferences and other events and make my staff happy.
 As someone who wants to come and see a show on the theatre for the first time, I want to see the map in order to plan my trip to the theatre.
-As someone who has questions about the theatre, wants to join the cast or has other question I want to be able to reach the group easy through the contact form.
+As someone who has questions to the theatre group I want to be able to reach the group easy through the contact form.
 As a user of the this website, I want it to be easy to navigate and the pages to be visually appealing.
 
 # Wireframes
@@ -92,13 +90,14 @@ I have also tested the page on different devices such as Ipad, Galaxy, Iphone.
 CSS code was tested here: https://jigsaw.w3.org/css-validator/validator
 
 HTML-code was tested here: https://validator.w3.org/nu/?doc=https%3A%2F%2Fkristina-liv.github.io%2FHalf-the-group%2F
+
 I wrote in the address in the form and made changes after that. 
 
 I have been testing all the links in the navigation menu which all worked fine. The buttons also works well.
 The social links will be opened in a new window. I have been using "target="_blank" to manage that. 
 All links are pointing to the correct destination.
 
-I have been testing the map, zooming in and out which are working well. 
+I have been testing the map, zooming in and out which are working well. I noticed on using Iphone 9 the map pops up when the user is pushing the "About" link in the navbar. When the user go backwards in the page the text appear. 
 
 ### Contact form:
 I have tested to try to submit the form without a valid email address and I got an error message, noting the invalid email address. 
@@ -110,8 +109,10 @@ If all fields are filled in the page will reload.
 - The logo was too big on mobile devices so I deleted letter-spacing in the CSS-file and did adjustments with size and padding to the right which resolved the problem. 
 
 # Deployment
-I have used Github to deploy my website.
-Here you can find it:
+I have used Github to deploy my website. 
+It is deployed directly from the master branch. 
+When new commits are done in the master branch the webpage will update automatically. 
+The landning page must be named index.html in order to work correctly. 
 
  https://kristina-liv.github.io/Half-the-group/
 
