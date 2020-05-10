@@ -97,7 +97,7 @@ I have been testing all the links in the navigation menu which all worked fine. 
 The social links will be opened in a new window. I have been using "target="_blank" to manage that. 
 All links are pointing to the correct destination.
 
-I have been testing the map, zooming in and out which are working well. I noticed on using Iphone 9 the map pops up when the user is pushing the "About" link in the navbar. When the user go backwards in the page the text appear. 
+I have been testing the map, zooming in and out which are working well. When using Iphone xr I discovered the map pops up when the user is pushing the "About" link in the navbar. When the user go backwards in the page the text appear. 
 
 ### Contact form:
 I have tested to try to submit the form without a valid email address and I got an error message, noting the invalid email address. 
