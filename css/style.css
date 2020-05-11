@@ -77,7 +77,7 @@ a:hover {
 }
 
 
-/* The hero image */
+/* The hero image and text*/
 
 .hero-image {
   background-image: linear-gradient(rgba(133, 124, 124, 0.5), rgba(0, 0, 0, 0.5)), url("https://scontent.farn2-1.fna.fbcdn.net/v/t1.0-9/p960x960/86221369_10158424583334645_6654781594399670272_o.jpg?_nc_cat=103&_nc_sid=8024bb&_nc_ohc=XB_OCIQqS24AX--zOpm&_nc_ht=scontent.farn2-1.fna&_nc_tp=6&oh=0a8e836fb828f698fb1a20cbb818c9a6&oe=5ED4FCD3");
@@ -99,7 +99,6 @@ a:hover {
 }
 
 
-/* The hero image2 */
 .hero-image2 {
   background-image: linear-gradient(rgba(133, 124, 124, 0.5), rgba(0, 0, 0, 0.5)), url("https://scontent.farn2-1.fna.fbcdn.net/v/t1.0-9/s960x960/83983554_144563993711668_4798116968060157952_o.jpg?_nc_cat=107&_nc_sid=110474&_nc_ohc=yhHTqMsG-GoAX_j9rAF&_nc_ht=scontent.farn2-1.fna&_nc_tp=7&oh=4eb8d8e401ff0c7c24d9bd56b0048c83&oe=5EDB144F");
   height: 150%;
@@ -133,9 +132,6 @@ header {
      background-color: #cccccc;
 }
 
- a #nav-space {
-    padding: 20%;
-}
 
 #logo {
 letter-spacing: 0px;

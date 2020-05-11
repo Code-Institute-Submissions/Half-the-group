@@ -87,9 +87,9 @@ To ensure that all users can successfully use the site, I have been tested it on
 I have also tested the page on different devices such as Ipad, Galaxy, Iphone. 
 
 
-CSS code was tested here: https://jigsaw.w3.org/css-validator/validator
+CSS code was tested here: https://jigsaw.w3.org/css-validator/#validate_by_input
 
-HTML-code was tested here: https://validator.w3.org/nu/?doc=https%3A%2F%2Fkristina-liv.github.io%2FHalf-the-group%2F
+HTML-code was tested here: https://validator.w3.org/
 
 I wrote in the address in the form and made changes after that. 
 
