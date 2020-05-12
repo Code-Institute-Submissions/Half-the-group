@@ -24,7 +24,8 @@ As someone who has questions to the theatre group I want to be able to reach the
 As a user of the this website, I want it to be easy to navigate and the pages to be visually appealing.
 
 # Wireframes
-Pictures from Balsamiq (Links)
+Pictures from Balsamiq:
+[Pictures](assets/photos/Balsamiq-1.pdf)
  
 # Features
 - Navigation Bar - This allows the user to easy navigate in the site, it is consistent throughout the whole website. 
@@ -84,7 +85,7 @@ To ensure that all users can successfully use the site, I have been tested it on
 - Firefox
 - Opera
 
-I have also tested the page on different devices such as Ipad, Galaxy, Iphone. 
+I have also tested the page on different devices such as Chromebook, MacBook, Ipad, Galaxy, Iphone. 
 
 
 CSS code was tested here: https://jigsaw.w3.org/css-validator/#validate_by_input
