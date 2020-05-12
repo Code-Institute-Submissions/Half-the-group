@@ -25,7 +25,7 @@ As a user of the this website, I want it to be easy to navigate and the pages to
 
 # Wireframes
 Pictures from Balsamiq:
-[Pictures](assets/photos/Balsamiq-1.pdf)
+[Link](assets/photos/Balsamiq-1.pdf)
  
 # Features
 - Navigation Bar - This allows the user to easy navigate in the site, it is consistent throughout the whole website. 
