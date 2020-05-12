@@ -106,7 +106,7 @@ I have been testing the map, zooming in and out which are working well. When usi
 
 ### Contact form:
 I have tested to try to submit the form without a valid email address and I got an error message, noting the invalid email address. 
-The "required" attribute has been added to the Email address and the message form fields. If these fields are not filled in the user can not submit the message. 
+The "required" attribute has been added to the Email address. If this field are not filled in the user can not submit the message. 
 If all fields are filled in the page will reload. 
 
 ## Issues found in testing
